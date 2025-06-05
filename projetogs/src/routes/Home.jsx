@@ -38,7 +38,7 @@ const Home = () => {
               <span className="text-4xl text-blue-700">💧</span>
             </div>
           </div>
-          <div className="border-l-8 border-blue-400 bg-white bg-opacity-80 rounded-2xl p-8 shadow-xl">
+          <div className="border-l-9 border-3 border-blue-300 bg-white bg-opacity-80 rounded-2xl p-8 shadow-xl">
             <h2 className="text-4xl font-extrabold text-blue-900 mb-4">O desafio das enchentes no Brasil</h2>
             <p className="text-xl text-blue-900 mb-4 font-medium">
               As enchentes são um dos maiores problemas enfrentados por cidades brasileiras, causando prejuízos materiais, perdas de vidas e impactos sociais profundos. A cada ano, milhares de famílias perdem suas casas, bens e até entes queridos devido à força das águas.
