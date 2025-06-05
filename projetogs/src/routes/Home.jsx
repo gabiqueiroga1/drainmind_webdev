@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 const Home = () => {
   return (
     <div className="min-h-screen">
-      <section className="bg-blue-800 text-white">
+      <section className="bg-gradient-to-r from-blue-900 via-blue-800 to-blue-500 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
           <div className="text-center">
             <h1 className="text-5xl md:text-7xl font-extrabold mb-8 drop-shadow-lg">

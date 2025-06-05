@@ -5,7 +5,7 @@ const Sobre = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-blue-900 via-blue-800 to-blue-600 text-white py-28 mb-20">
+      <section className="bg-gradient-to-r from-blue-900 via-blue-800 to-blue-500 text-white py-28 mb-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="flex justify-center mb-6">
