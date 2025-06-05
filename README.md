@@ -45,7 +45,7 @@ O projeto utiliza Tailwind CSS para estilização, seguindo os princípios:
 ## 🔍 Como rodar localmente
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repo>
+   git clone <url-do-repositorio>
    cd drainmind-webdev
    ```
 2. **Instale as dependências:**
