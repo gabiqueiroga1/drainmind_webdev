@@ -35,7 +35,7 @@ const Cadastrar = () => {
           <p className="mt-4 text-center text-lg text-gray-700">
             Ou{' '}
             <Link to="/login" className="font-bold text-blue-600 hover:text-blue-800">
-              faça login se já tiver uma conta
+              Faça login se já tiver uma conta
             </Link>
           </p>
         </div>
