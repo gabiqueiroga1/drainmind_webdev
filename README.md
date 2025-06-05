@@ -1,4 +1,4 @@
-# DrainMind
+# 🧠 DrainMind
 
 Utilizamos tecnologia inteligente para prevenir enchentes e proteger vidas. Com sensores e inteligência artificial, monitoramos bueiros em tempo real, identificando riscos antes que se transformem em tragédias.
 
@@ -45,7 +45,7 @@ O projeto utiliza Tailwind CSS para estilização, seguindo os princípios:
 ## 🔍 Como rodar localmente
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repo>
+   git clone <url-do-repositorio>
    cd drainmind-webdev
    ```
 2. **Instale as dependências:**
