@@ -1,4 +1,4 @@
-# DrainMind
+# 🧠 DrainMind
 
 Utilizamos tecnologia inteligente para prevenir enchentes e proteger vidas. Com sensores e inteligência artificial, monitoramos bueiros em tempo real, identificando riscos antes que se transformem em tragédias.
 
