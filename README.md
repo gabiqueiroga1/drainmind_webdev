@@ -64,5 +64,7 @@ O projeto utiliza Tailwind CSS para estilização, seguindo os princípios:
 
 ## 💌 Alunas
 
+1ESPB
+
 - Maria Eduarda Ferrés - RM 560418
 - Gabriela Queiroga Cocuzza da Silva - RM 560035
